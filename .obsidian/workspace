@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "high math.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "readme.md",
+            "file": "high math.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
   },
   "active": "cb0684e479867d8f",
   "lastOpenFiles": [
+    "high math.md",
     "readme.md",
     "первая заметка.md"
   ]
