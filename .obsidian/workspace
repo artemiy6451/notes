@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0684e479867d8f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "high math.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4d2437ddfbe17ba7",
+        "id": "de9cc3a4a99214b9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "english.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -84,11 +72,15 @@
     ],
     "currentTab": 0
   },
-  "active": "4d2437ddfbe17ba7",
+  "active": "de9cc3a4a99214b9",
   "lastOpenFiles": [
     "english.md",
-    "readme.md",
     "high math.md",
+    "выговориться.md",
+    "vk_messanger_bot_tz.md",
+    "tec.md",
+    "техническое задание.md",
+    "readme.md",
     "первая заметка.md"
   ]
 }
