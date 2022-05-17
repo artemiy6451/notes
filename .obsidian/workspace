@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "english.md",
+            "file": "sistem analiz.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "english.md",
+            "file": "sistem analiz.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,6 +74,8 @@
   },
   "active": "de9cc3a4a99214b9",
   "lastOpenFiles": [
+    "sistem analiz.md",
+    "pmi.md",
     "english.md",
     "high math.md",
     "выговориться.md",
